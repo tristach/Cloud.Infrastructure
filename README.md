@@ -10,10 +10,15 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/tristach/Active.Directory.Azure.VMs/blob/main/README.md)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/tristach/Azure.Network.Protocols/blob/main/README.md)
 
-<h2>🤳Connect with me:</h2>
+<h2>Connect with me:</h2>
+
+[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-[<img align="left" alt="Nick | LinkedIn" width="22px" src="https://www.linkedin.com/in/nick-stach/" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/nick-stach?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B72I0SCqUQZ%2BdU4%2F%2BmKBKug%3D%3D
+
+
 
 
 
