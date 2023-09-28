@@ -1,4 +1,4 @@
-<h1>Nick Stach, <a href="https://linkedin.com/in/Josh">Cyber Security Professional</a>☺</h1>
+<h1>Nick Stach, <a href="https://linkedin.com/in/Josh">Cyber Security Professional</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
