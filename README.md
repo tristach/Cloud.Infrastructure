@@ -5,7 +5,7 @@
 - <b>Azure Cloud SOC</b>
   - [Creating a live SOC/Honeynet in Azure](https://github.com/tristach/Azure-Cloud-SOC/tree/main)
 - <b>Cloud Vulnerability Management/Remediation.</b>
-  - [Creating a live SOC/Honeynet in Azure](https://github.com/tristach/Azure-Cloud-SOC/tree/main)
+  - [Demonstrating Cybersecurity Vulnerability Mngt. Remediation in Cloud](https://github.com/tristach/Cybersecurity.Vulnerability.Mngt.)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/tristach/Active.Directory.Azure.VMs/blob/main/README.md)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/tristach/Azure.Network.Protocols/blob/main/README.md)
