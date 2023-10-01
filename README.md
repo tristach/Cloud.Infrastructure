@@ -3,7 +3,9 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Azure Cloud SOC</b>
-  - [Creating a live SOC/Honeyet in Azure](https://github.com/tristach/Azure-Cloud-SOC/tree/main)
+  - [Creating a live SOC/Honeynet in Azure](https://github.com/tristach/Azure-Cloud-SOC/tree/main)
+- <b>Cloud Vulnerability Management/Remediation.</b>
+  - [Creating a live SOC/Honeynet in Azure](https://github.com/tristach/Azure-Cloud-SOC/tree/main)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/tristach/Active.Directory.Azure.VMs/blob/main/README.md)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/tristach/Azure.Network.Protocols/blob/main/README.md)
