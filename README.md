@@ -1,9 +1,9 @@
 <h1>Nick Stach, <a href="https://www.linkedin.com/in/nick-stach/">Cyber Security Professional</h1>
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2>Cloud Infrastructure </h2>
 
-- <b>Azure Cloud SOC</b>
-  - [Creating a live SOC/Honeynet in Azure](https://github.com/tristach/Azure-Cloud-SOC/tree/main)
+- <b>Scalability</b>
+  - [Can expand horizontally or vertically as needed.](https://docs.google.com/drawings/d/15YMYPu0ChGPwP6dhe4PTjAes5CN1USXlV3sjr-mNVgw/edit?usp=sharing)
 - <b>Cloud Vulnerability Management/Remediation.</b>
   - [Demonstrating Cybersecurity Vulnerability Mngt. Remediation in Cloud](https://github.com/tristach/Cybersecurity.Vulnerability.Mngt.)
 - <b>Microsoft Azure</b>
