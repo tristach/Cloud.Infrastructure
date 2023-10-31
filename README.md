@@ -1,4 +1,4 @@
-<h1>Nick Stach, <a href="https://www.linkedin.com/in/nick-stach/">Cyber Security Professional</h1>
+<h1>Nick Stach, <a href="https://www.linkedin.com/in/nick-stach/">IT/Cloud/Cyber Security Professional</h1>
 
 <h2>Cloud Infrastructure </h2>
 
