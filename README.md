@@ -7,7 +7,7 @@
 - <b>Slide 2.  Explanation.</b>
   - [Key Components: Load Balancers to scalability.](https://docs.google.com/drawings/d/1tG9FUh5Kxh4h_RW6EqUei7x7fQRRC5OEV-Glu6zvvPs/edit?usp=sharing)
 - <b>Slide 3.  Explanation Continued.</b>
-  - [Key Components: Security to Omega](https://docs.google.com/drawings/d/1E6kHf1O-iugPVw24wL4U_j5JnDtp8gzoYGypdbC6LsI/edit?usp=sharing)
+  - [Key Components: Security to Omega.](https://docs.google.com/drawings/d/1E6kHf1O-iugPVw24wL4U_j5JnDtp8gzoYGypdbC6LsI/edit?usp=sharing)
   
 
 <h2>See my other portfolios below.</h2>
